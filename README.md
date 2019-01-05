@@ -1,7 +1,5 @@
-# JavaLearning
+# Automation
 
-# 环境搭建
+# 自动化之持续集成
 
-* [环境搭建](./环境搭建.md)
-
-# WEB项目部署
+* [CI构建](./CI/)
